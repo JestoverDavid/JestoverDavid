@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JestoverDavid
+- 👋 Hi, I’m Jestover Mark David
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Projects 
